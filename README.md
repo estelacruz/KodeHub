@@ -1,4 +1,4 @@
-![](/Users/nicolesosa/Desktop/Spring2023/Open_Source/ClassActivities/KodeHub/KodeHubBanner.jpg)
+![KodeHubBanner](/KodeHubBanner.jpg)
 
 # Kode-Hub
 
