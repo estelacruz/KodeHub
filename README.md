@@ -1,3 +1,5 @@
+![](/Users/nicolesosa/Desktop/Spring2023/Open_Source/ClassActivities/KodeHub/KodeHubBanner.jpg)
+
 # Kode-Hub
 
 **Kode Hub** is maintained by our amazing kode team: [nicoleSosa](https://github.com/nicoleSosa),  [estelacruz](https://github.com/estelacruz), and [Bernice Wu](https://github.com/Bernice55231). 
