@@ -19,7 +19,7 @@ Currently Kode Hub offers the following features:
 
 ## Contribution Guidelines
 
-If you want to contribute to Kode Hub and be a part of our team, please take a moment to read our contribution guidelines and our code of conduct. We'd love for you to participate in this project that values a welcoming and inclusive community. 
+If you want to contribute to Kode Hub and be a part of our team, please take a moment to read our [contribution guidelines](https://github.com/nicoleSosa/KodeHub/blob/main/CONTRIBUTING.MD) and our [code of conduct](https://github.com/nicoleSosa/KodeHub/blob/main/CODE_OF_CONDUCT.MD). We'd love for you to participate in this project that values a welcoming and inclusive community. 
 
 
 
