@@ -8,7 +8,7 @@ To contribute to **Kode Hub**:
 
    **Note:** You cannot work on your own reported issue. Allow others to work on your issues to promote collaboration in the Kode Kommunity 😃. 
 
-2. **Work on an issue **- You can go to our [issues page](https://github.com/ossd-s23/KodeHub/issues), choose an issue you want to work on, and please claim it. Please wait for approval confirmation from our team. Then you can fix the issue on your forked repository of our project and send a pull request that includes the issue number. Including the issue number allows our team to track the issue easily. Lastly, our team will review and accept your pull request or ask for further clarification. 
+2. **Work on an issue** - You can go to our [issues page](https://github.com/ossd-s23/KodeHub/issues), choose an issue you want to work on, and please claim it. Please wait for approval confirmation from our team. Then you can fix the issue on your forked repository of our project and send a pull request that includes the issue number. Including the issue number allows our team to track the issue easily. Lastly, our team will review and accept your pull request or ask for further clarification. 
 
    **Note:** If you don't claim an issue, someone else may also work on the same issue at the same time and sadly we will only accept one contribution to fix this issue. 
 
