@@ -25,7 +25,7 @@ Since our project is mainly coded in **JavaScript**, **HTML**, and **CSS**, we w
 
 ## Getting Help
 
-If you ever need any help with contributing to our project, please ask us in the Kode Hub [discord channel](https://discord.gg/gMRSYW5E). 
+If you ever need any help with contributing to our project, please ask us in the Kode Hub [discord channel](https://discord.gg/gMRSYW5E) or report the issue in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfeQ8vdY4b2KhC0IS1YJnm4Uhzbu3G2uEmv-JyrWHOX_mdVpw/viewform?usp=sf_link). 
 
 ## Additional Resources
 
