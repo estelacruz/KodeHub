@@ -2,6 +2,12 @@
 
 # Kode-Hub
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+
 **KodeHub** is maintained by our amazing **Kode team**: [nicoleSosa](https://github.com/nicoleSosa),  [estelacruz](https://github.com/estelacruz), and [Bernice Wu](https://github.com/Bernice55231). 
 
 KodeHub is a web extension explicitly designed for Computer Science students. KodeHub was created to eliminate the overwhelming feeling of having multiple tabs open by keeping them hidden in our extension. With KodeHub, students can optimize their organization by allowing them to access all their essential computer science and class-related links in one place quickly!
